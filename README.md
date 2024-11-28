@@ -1,4 +1,4 @@
-# Hash-Table-using-singly-Array in C
+# Hash-Table-using-singly-Array to find sum of two distinct elements in C
 
 ## Overview
 This project implements a basic **hash table** in C using linear probing for collision resolution. It includes functionalities for inserting values, searching for values, and displaying the hash table contents. The program also demonstrates a use case where it looks for elements whose sum equals 10.
